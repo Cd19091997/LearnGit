@@ -6,4 +6,4 @@ public class Practice_mysql {
 
 	}
 
-}
+New}
